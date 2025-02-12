@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Übersicht"
             }
+          },
+          {
+            "id": "66f8fbae7a981c80",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,13 +155,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Übersicht.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Übersicht"
+              "title": "Outline"
             }
           },
           {
@@ -179,11 +193,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e8bd9f9f683feb4d",
+  "active": "66f8fbae7a981c80",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Übersicht.md",
     "2025-02-12.md",
     "Themen/Objektorientierung.md",
-    "Übersicht.md",
     "Excalidraw/Drawing 2025-02-12 09.20.18.excalidraw.md",
     "Excalidraw",
     "Themen/JavaFX.md",
