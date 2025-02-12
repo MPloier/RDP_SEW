@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "85495ff7a267b055",
+        "id": "af284d47c8d6dbe6",
         "type": "tabs",
         "children": [
           {
-            "id": "ad6c1743222052c1",
+            "id": "e8bd9f9f683feb4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,148 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "Übersicht"
-            }
-          },
-          {
-            "id": "47fdf676eb75dad1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Themen/Objektorientierung.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Objektorientierung"
-            }
-          },
-          {
-            "id": "d23e0043cd350511",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Themen/Interfaces.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Interfaces"
-            }
-          },
-          {
-            "id": "9e91bd8ae6b7331b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Themen/Regular-Expression.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Regular-Expression"
-            }
-          },
-          {
-            "id": "877d5f6b54072dc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Themen/Rekursion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rekursion"
-            }
-          },
-          {
-            "id": "958ead7c552b7d77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Themen/Exception-Handling.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Exception-Handling"
-            }
-          },
-          {
-            "id": "7205b997c5eeb930",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Themen/Collection-Framework.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Collection-Framework"
-            }
-          },
-          {
-            "id": "d5338cfdbd2bbfce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Themen/JavaIO.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "JavaIO"
-            }
-          },
-          {
-            "id": "dea1ca1732554a8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Themen/JUnit-Test.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "JUnit-Test"
-            }
-          },
-          {
-            "id": "c0d824514779685b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Themen/JavaFX.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "JavaFX"
-            }
-          }
-        ]
-      },
-      {
-        "id": "39b795666401bf66",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7ec1919dcc57f4fe",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ]
@@ -182,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -267,7 +126,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -278,9 +139,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Übersicht.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Übersicht"
             }
           },
           {
@@ -298,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 473.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -313,26 +179,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ec1919dcc57f4fe",
+  "active": "e8bd9f9f683feb4d",
   "lastOpenFiles": [
+    "2025-02-12.md",
+    "Themen/Objektorientierung.md",
     "Übersicht.md",
-    "Themen/Patterns.md",
-    "Themen/Threads.md",
+    "Excalidraw/Drawing 2025-02-12 09.20.18.excalidraw.md",
+    "Excalidraw",
+    "Themen/JavaFX.md",
+    "Themen/JUnit-Test.md",
+    "Themen/JavaIO.md",
     "Themen/Collection-Framework.md",
     "Themen/Exception-Handling.md",
-    "Themen/JUnit-Test.md",
-    "Themen/JSON-GSON.md",
+    "Themen/Rekursion.md",
     "Themen/Regular-Expression.md",
+    "Themen/Interfaces.md",
+    "Themen/Patterns.md",
+    "Themen/Threads.md",
+    "Themen/JSON-GSON.md",
     "Regular.md",
     "Themen/Parallelität.md",
     "Themen",
-    "Themen/JavaFX.md",
-    "Themen/JavaIO.md",
-    "Themen/Rekursion.md",
-    "Themen/Interfaces.md",
-    "Themen/Objektorientierung.md",
     "Excalidraw/Drawing 2025-02-12 08.47.48.excalidraw.md",
-    "Excalidraw/Drawing 2025-02-12 08.47.49.excalidraw.md",
-    "Excalidraw"
+    "Excalidraw/Drawing 2025-02-12 08.47.49.excalidraw.md"
   ]
 }
