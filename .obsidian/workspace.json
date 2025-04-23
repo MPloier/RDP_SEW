@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Themen/1. Objektorientierung.md",
+                "file": "Themen/2. Interfaces.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Objektorientierung"
+              "title": "2. Interfaces"
             }
           }
         ]
@@ -173,7 +173,9 @@
   },
   "active": "19a810dec22f1360",
   "lastOpenFiles": [
+    "Themen/1. Objektorientierung.md",
     "Übersicht.md",
+    "Themen/2. Interfaces.md",
     "Themen/12. Patterns.md",
     "Themen/11. Parallelität.md",
     "Themen/10. JavaFX.md",
@@ -184,8 +186,6 @@
     "Themen/5. Exception-Handling.md",
     "Themen/3. Regular-Expression.md",
     "Themen/4. Rekursion.md",
-    "Themen/2. Interfaces.md",
-    "Themen/1. Objektorientierung.md",
     "Excalidraw/Drawing 2025-04-23 08.29.23.excalidraw.md",
     "Excalidraw/Drawing 2025-04-23 08.29.21.excalidraw.md",
     "2025-04-23.md",
