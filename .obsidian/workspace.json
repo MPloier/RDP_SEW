@@ -11,10 +11,14 @@
             "id": "a5f6eebbe3aec215",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Themen/11. Parallelität.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "11. Parallelität"
             }
           }
         ]
