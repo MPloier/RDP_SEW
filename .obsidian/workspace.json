@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "af284d47c8d6dbe6",
+        "id": "cdb3e4cfa575e51d",
         "type": "tabs",
         "children": [
           {
-            "id": "e8bd9f9f683feb4d",
+            "id": "19a810dec22f1360",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Übersicht"
             }
-          },
-          {
-            "id": "66f8fbae7a981c80",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,9 +126,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -154,11 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
+              "state": {},
               "icon": "lucide-list",
               "title": "Outline"
             }
@@ -178,7 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 473.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,32 +167,32 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "66f8fbae7a981c80",
+  "active": "19a810dec22f1360",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Themen/12. Patterns.md",
     "Übersicht.md",
-    "2025-02-12.md",
-    "Themen/Objektorientierung.md",
-    "Excalidraw/Drawing 2025-02-12 09.20.18.excalidraw.md",
+    "Themen/11. Parallelität.md",
+    "Themen/10. JavaFX.md",
+    "Themen/9. JSON-GSON.md",
+    "Themen/8. JUnit-Test.md",
+    "Themen/7. JavaIO.md",
+    "Themen/6.Collection-Framework.md",
+    "Themen/5. Exception-Handling.md",
+    "Themen/3. Regular-Expression.md",
+    "Themen/4. Rekursion.md",
+    "Themen/2. Interfaces.md",
+    "Themen/1. Objektorientierung.md",
+    "Excalidraw/Drawing 2025-04-23 08.29.23.excalidraw.md",
+    "Excalidraw/Drawing 2025-04-23 08.29.21.excalidraw.md",
+    "2025-04-23.md",
     "Excalidraw",
-    "Themen/JavaFX.md",
-    "Themen/JUnit-Test.md",
-    "Themen/JavaIO.md",
-    "Themen/Collection-Framework.md",
-    "Themen/Exception-Handling.md",
-    "Themen/Rekursion.md",
-    "Themen/Regular-Expression.md",
-    "Themen/Interfaces.md",
-    "Themen/Patterns.md",
+    "2025-02-12.md",
     "Themen/Threads.md",
-    "Themen/JSON-GSON.md",
     "Regular.md",
-    "Themen/Parallelität.md",
     "Themen",
     "Excalidraw/Drawing 2025-02-12 08.47.48.excalidraw.md",
     "Excalidraw/Drawing 2025-02-12 08.47.49.excalidraw.md"
