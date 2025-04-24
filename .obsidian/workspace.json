@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Themen/11. Parallelität.md",
+                "file": "Themen/12. Patterns.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. Parallelität"
+              "title": "12. Patterns"
             }
           }
         ]
@@ -173,6 +173,8 @@
   },
   "active": "a5f6eebbe3aec215",
   "lastOpenFiles": [
+    "Themen/11. Parallelität.md",
+    "Themen/12. Patterns.md",
     "Themen/10. JavaFX.md",
     "Themen/9. JSON-GSON.md",
     "Themen/8. JUnit-Test.md",
@@ -184,8 +186,6 @@
     "Themen/2. Interfaces.md",
     "Themen/1. Objektorientierung.md",
     "Übersicht.md",
-    "Themen/12. Patterns.md",
-    "Themen/11. Parallelität.md",
     "Excalidraw/Drawing 2025-04-23 08.29.23.excalidraw.md",
     "Excalidraw/Drawing 2025-04-23 08.29.21.excalidraw.md",
     "2025-04-23.md",
